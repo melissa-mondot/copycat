@@ -1,4 +1,4 @@
-Simple React App written with CRA
+#Copy Cat
 
 This provides an example of partitioning an app with separtation of concerns:
 
